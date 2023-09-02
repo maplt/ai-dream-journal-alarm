@@ -1,1 +1,1 @@
-# dream-journal-alarm
+# ai-dream-journal-alarm
